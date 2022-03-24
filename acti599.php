@@ -10,6 +10,7 @@
     <h1>Primer arxiu PHP</h1>
     <h2>Transparencias PHP in Action</h2>
     <h3>Activitat P1.1</h3>
+    <h5>nom del acti599.php</h5>
     <h4>El bateig de PHP</h4>
     <p>Fer un progrma amb php que mostri per pantalla el dia i la hora amb el següent format de sortida:</p>
     <p>"Dissabte, Febrer 12 de 2022 i són les 09:18:15 hores"</p>
