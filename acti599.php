@@ -21,7 +21,7 @@
 
 
 
-        echo "<p>Activitat P1.1</p>";
+        echo "<p>Activitat P1.1 </p>";
         echo date("Y");
         echo "<br>";
         echo "La hora actual es " . date("d-m-Y h:i:sa");
