@@ -17,10 +17,6 @@
     // Això 
     <br>
     <?php
-
-
-
-
         echo "<p>Activitat P1.1 </p>";
         echo date("Y");
         echo "<br>";
@@ -32,14 +28,6 @@
 
         $d=strtotime("10:30pm April 15 2014");
         echo "Created date is " . date("Y-m-d h:i:sa", $d);
-
-
-
-
-
-
     ?>
-
-
 </body>
 </html>
