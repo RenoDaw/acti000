@@ -14,8 +14,8 @@
     <h5>nom del acti597.php</h5>
     </br>
     <?php
-    echo "<a href='/mirepocopy.git/exe3/acti5671.php'>Entra a els arxius servidor local</a> ";
-    echo "<a href='/exe3/acti5671.php'>Entra a els arxius servidor Azure</a> ";
+    echo "<a href='/mirepocopy.git/exe3/acti5671.php'>Entra a els arxius servidor local</a></br> ";
+    echo "<a href='/exe3/acti5771.php'>Entra a els arxius servidor Azure</a> ";
 
 
     ?>
