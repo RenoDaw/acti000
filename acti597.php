@@ -14,7 +14,7 @@
     <h5>nom del acti597.php</h5>
     </br>
     <?php
-    echo "<a href='./mirepocopy.git/exe3/acti5671.php'>Entra a els arxius</a> ";
+    echo "<a href='/mirepocopy.git/exe3/acti5671.php'>Entra a els arxius</a> ";
 
     ?>
 </body>
