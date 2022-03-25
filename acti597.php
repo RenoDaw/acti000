@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ca">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,7 +14,7 @@
     <h5>nom del acti597.php</h5>
     </br>
     <?php
-    echo "<a href='../exe3/acti5671.php'>Entra a els arxius</a> ";
+    echo "<a href='../mirepoccopy.git/exe3/acti5671.php'>Entra a els arxius</a> ";
 
     ?>
 </body>
