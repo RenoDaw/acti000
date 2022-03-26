@@ -69,9 +69,9 @@
 <body >
     <h1>Activitat p1.3</h1>
     <h4>Començament exercici</h4>
-    <h6>repositorio global 18</h6>
+    <!-- <h6>repositorio global 18</h6> -->
       <?php //tall per sapiguer el arxiu
-        print "<p>\$_SERVER[PHP_SELF]: $_SERVER[PHP_SELF]</p>\n";
+       /* print "<p>\$_SERVER[PHP_SELF]: $_SERVER[PHP_SELF]</p>\n"; */
     ?> 
     
     <button class="button"><a style="text-decoration:none"  href='./acti5771.php'> Fes me Click per canviar de CSS</a> </button>
