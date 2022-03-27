@@ -19,7 +19,7 @@
 
         $a = "10";
         echo gettype($a);
-        settype($a, " integer");
+        settype($a_e, " integer");
         echo gettype ($a);
         echo isset($b);
 
