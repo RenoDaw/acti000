@@ -1,0 +1,18 @@
+llista de arxius en PHP in action
+
+Practica introductoria Hola Mon => Hola_mon.PHP
+
+Activitat - Xampp treure el log de PHP => inici_log.PHP
+
+Activitat P1.1 arxiu => acti599.PHP
+exercici de dia hora
+
+Activitat P1.2 (pagina 18) arxiu => acti598.PHP
+Instrucio testejar el sistema log
+
+Activitat P1.2 (pagina 22) arxiu => acti5981.PHP
+variables 
+
+
+
+
