@@ -13,6 +13,12 @@ Instrucio testejar el sistema log
 Activitat P1.2 (pagina 22) arxiu => acti5981.PHP
 variables 
 
+Activitat P1.4 (pagina 33) arxiu => acti597.PHP
+exercici de varia ccs a traves del PHP
+
+
+
+
 
 
 
