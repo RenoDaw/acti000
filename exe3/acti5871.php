@@ -71,9 +71,9 @@
     <h4>Començament exercici</h4>
     <!-- <h6>repositorio global 19</h6> -->
     
-    <!-- <?php // tall de codic per sapigue el archivo
-       /* print "<p>\$_SERVER[PHP_SELF]: $_SERVER[PHP_SELF]</p>\n"; */
-    ?> -->
+    <?php // tall de codic per sapigue el archivo
+       print "<p>\$_SERVER[PHP_SELF]: $_SERVER[PHP_SELF]</p>\n";
+    ?>
     
     <button class="button"><a style="text-decoration:none" href='./acti5872.php'> Fes me Click per canviar de CSS </a> </button>
     <br>
