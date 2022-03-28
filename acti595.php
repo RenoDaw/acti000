@@ -11,8 +11,8 @@
     echo "<h1>Títol</h1>";
     echo "<h2>Subtítol</h2>";
     echo "<h5 >acti595.php</h5>";
-    echo "<a href='./exe7/acti5951.html'>Provar el de las pizzas</a>";
-    
+    echo "<a href='./exe7/acti5951.html'>Provar el de las pizzas</a></br>";
+    echo "<a href='./exe7/acti5959.html'>formulario de post</a>";
     ?>
     
 </body>
