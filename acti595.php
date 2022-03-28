@@ -10,8 +10,10 @@
 <?php
     echo "<h1>Títol</h1>";
     echo "<h2>Subtítol</h2>";
-    echo "<h5>acti595.php</h5>";
-    phpinfo();
+    echo "<h5 >acti595.php</h5>";
+    echo "<a href='./exe7/acti5951.html'>Provar el de las pizzas</a>";
+    
     ?>
+    
 </body>
 </html>

@@ -16,7 +16,8 @@ variables
 Activitat P1.4 (pagina 33) arxiu => acti597.PHP
 exercici de varia ccs a traves del PHP
 
-
+Activitat P1.7 (pagina xx) archiu => acti595.PHP
+el de las pizzas  
 
 
 
