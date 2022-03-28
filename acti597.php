@@ -16,6 +16,7 @@
     <?php
     echo "<a href='/mirepocopy.git/exe3/acti5671.php'>Entra a els arxius servidor local</a></br> ";
     echo "<a href='/exe3/acti5771.php'>Entra a els arxius servidor Azure</a> ";
+    echo "<a href='/mirepo/exe3/acti5671.php'>Entra a els arxius servidor local Institut en d</a></br> ";
 
 
     ?>
