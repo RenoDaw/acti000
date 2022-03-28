@@ -7,7 +7,7 @@
     <title>1y3</title>
     <style>
         <?php
-             if ($_SERVER['PHP_SELF'] == '/mirepo/exe3/acti5671.php')
+             if ($_SERVER['PHP_SELF'] == '/mirepo/exe3/acti5871.php')
                 {
                     class pintar{
                         const BACKGROUND_COLOR = "DarkSalmon";
